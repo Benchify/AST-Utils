@@ -1,1 +1,3 @@
 This repository contains some assorted AST manipulation utils, particularly for Python inlining, which we no longer use.  The utils are high quality and mostly production-ready, with the caveat that there might be some unhandled edge cases around block quotes, single-tick strings, or potentially certain nonstandard imports such as those that use `importlib`.  If you make improvements to this code please share them with us via a PR.
+
+This code was authored by Max von Hippel, Bartek Chyra, Isabella Hochschild, and Ammar Husain.
